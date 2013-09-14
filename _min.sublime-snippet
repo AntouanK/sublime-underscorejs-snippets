@@ -1,14 +1,14 @@
 <snippet>
 	<content><![CDATA[
-_.reject(${1:list}, function(${2:ele}, i, list){
+_.min(${1:list}${2:, function(${3:ele}, i, list){
+	
+	return ${4://some_criterion_here};
 
-	return ${3:ele.something === someVal;}
-
-});
+\}});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>_reject</tabTrigger>
+	<tabTrigger>_min</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Underscore.js reject</description>
+	<description>Underscore.js min</description>
 </snippet>

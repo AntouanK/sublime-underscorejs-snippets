@@ -2,7 +2,7 @@
 	<content><![CDATA[
 _.reduceRight(${1:list}, function(memo, ${3:ele}, i, list){
 	
-	// return ${4:memo + ele.something;}
+	return ${4:memo + ele.something;}
 
 }, ${2:memo});
 ]]></content>

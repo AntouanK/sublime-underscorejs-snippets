@@ -2,7 +2,7 @@
 	<content><![CDATA[
 _.filter(${1:list}, function(${2:ele}, i, list){
 	
-	// return ${3:ele.something === someVal;}
+	return ${3:ele.something === someVal;}
 
 });
 ]]></content>

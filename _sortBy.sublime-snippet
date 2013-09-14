@@ -1,14 +1,14 @@
 <snippet>
 	<content><![CDATA[
-_.reject(${1:list}, function(${2:ele}, i, list){
-
-	return ${3:ele.something === someVal;}
+_.sortBy(${1:list}, function(${3:ele}, i, list){
+	
+	return ${4://some_criterion_here};
 
 });
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>_reject</tabTrigger>
+	<tabTrigger>_sortBy</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Underscore.js reject</description>
+	<description>Underscore.js sortBy</description>
 </snippet>
