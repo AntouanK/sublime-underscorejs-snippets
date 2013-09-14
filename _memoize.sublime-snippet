@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+_.memoize(${1:function(arg){
+
+	${2://	body}
+
+\}}${3:, hashFunction});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_memoize</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Underscore.js memoize</description>
+</snippet>

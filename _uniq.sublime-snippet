@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+_.uniq(${1:array}${2:, isSorted}${3:, function(${4:ele}, i, list){
+
+	return ${5:// some_criterion_here};
+
+\}});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_uniq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Underscore.js uniq</description>
+</snippet>
