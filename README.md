@@ -1,8 +1,6 @@
-# Underscore.js snippets plugin for Sublime Text (2|3)
-==============================
+# Underscore.js snippets for Sublime Text (2|3)
 
 Underscore.js API --> http://underscorejs.org/#
-
 
 ## How to Install
 
@@ -14,3 +12,13 @@ You can clone this repo inside your [sublime text 'packages/user/' folder](http:
 `git clone https://github.com/AntouanK/sublime-underscorejs-snippets.git`
 
 ( Install package control if needed --> https://sublime.wbond.net/installation )
+
+## How to use
+
+While editing any JavaScript file in Sublime Text, just type the '_' character and you will instantly get an 'autocomplete' menu with all the snippets for Underscore available.
+
+### TODO
+Complete the API of underscore.js
+
+
+more on Sublime Text snippets feature --> http://docs.sublimetext.info/en/latest/reference/snippets.html
