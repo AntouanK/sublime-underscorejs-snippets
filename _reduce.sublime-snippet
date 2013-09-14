@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 _.reduce(${1:list}, function(memo, ${3:ele}, i, list){
-	
-	${4:// body}
+
+	// return ${4:memo + ele.something;}
 
 }, ${2:memo});
 ]]></content>

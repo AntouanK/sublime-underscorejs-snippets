@@ -1,14 +1,10 @@
 <snippet>
 	<content><![CDATA[
-_.filter(${1:list}, function(${2:ele}, i, list){
-	
-	// return ${3:ele.something === someVal;}
-
-});
+_.findWhere(${1:list}, ${2:properties});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>_filter</tabTrigger>
+	<tabTrigger>_findWhere</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Underscore.js filter</description>
+	<description>Underscore.js findWhere</description>
 </snippet>
