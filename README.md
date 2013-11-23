@@ -24,6 +24,6 @@ Complete the API of underscore.js
 more on Sublime Text snippets feature --> http://docs.sublimetext.info/en/latest/reference/snippets.html
 
 
-v 0.1.1 ( 23 Nov 2013 )
+v 0.1.2 ( 23 Nov 2013 )
 - removed trailing semicolon from the _.isSomething() functions
 - added all remaining underscore.js functions
