@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+_.indexBy(${1:list}, function(${3:value}, key, list){
+	
+	return ${4://some_criterion_here};
+
+});
+]]></content>
+	<tabTrigger>_indexBy</tabTrigger>
+	<description>Underscore.js indexBy</description>
+</snippet>

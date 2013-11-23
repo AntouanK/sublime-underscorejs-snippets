@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_.pick(${1:object}${2:, keys});
+]]></content>
+	<tabTrigger>_pick</tabTrigger>
+	<description>Underscore.js pick</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_.toArray(${1:list})
+]]></content>
+	<tabTrigger>_toArray</tabTrigger>
+	<description>Underscore.js toArray</description>
+</snippet>

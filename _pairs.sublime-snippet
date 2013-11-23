@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_.pairs(${1:object});
+]]></content>
+	<tabTrigger>_pairs</tabTrigger>
+	<description>Underscore.js pairs</description>
+</snippet>

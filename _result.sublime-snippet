@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_.result(${1:object}, ${2:property})
+]]></content>
+	<tabTrigger>_result</tabTrigger>
+	<description>Underscore.js result</description>
+</snippet>

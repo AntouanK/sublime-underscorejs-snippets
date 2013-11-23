@@ -1,10 +1,7 @@
 <snippet>
 	<content><![CDATA[
-_.isArguments(${1:object});
+_.isArguments(${1:object})
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>_isArguments</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 	<description>Underscore.js isArguments</description>
 </snippet>

@@ -1,10 +1,7 @@
 <snippet>
 	<content><![CDATA[
-_.lastIndexOf(${1:array}, ${2:value}${3:, isSorted});
+_.lastIndexOf(${1:array}, ${2:value}${3:, fromIndex});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>_lastIndexOf</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 	<description>Underscore.js lastIndexOf</description>
 </snippet>

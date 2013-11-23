@@ -1,14 +1,11 @@
 <snippet>
 	<content><![CDATA[
-_.groupBy(${1:list}, function(${3:ele}, i, list){
+_.groupBy(${1:list}, function(${3:value}, key, list){
 	
 	return ${4://some_criterion_here};
 
 });
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>_groupBy</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 	<description>Underscore.js groupBy</description>
 </snippet>

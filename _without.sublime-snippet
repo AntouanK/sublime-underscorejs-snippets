@@ -1,10 +1,7 @@
 <snippet>
 	<content><![CDATA[
-_.without(${1:array}, ${2:values});
+_.without(${1:array}${2:, values});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>_without</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 	<description>Underscore.js without</description>
 </snippet>

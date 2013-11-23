@@ -1,14 +1,11 @@
 <snippet>
 	<content><![CDATA[
-_.find(${1:list}, function(${2:ele}, i, list){
+_.find(${1:list}, function(${2:value}, key, list){
 	
 	${3:// body}
 
 });
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>_find</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 	<description>Underscore.js find</description>
 </snippet>

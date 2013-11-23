@@ -1,14 +1,11 @@
 <snippet>
 	<content><![CDATA[
-_.every(${1:list}, function(${2:ele}, i, list){
+_.every(${1:list}, ${2:function(${3:value}, i, list){
 
-	return ${3:ele.something === someVal;}
+	return ${4:value === someOtherValue;}
 
-});
+\}});
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>_every</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 	<description>Underscore.js every</description>
 </snippet>

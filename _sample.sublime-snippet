@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_.sample(${1:list}${2:, n});
+]]></content>
+	<tabTrigger>_sample</tabTrigger>
+	<description>Underscore.js sample</description>
+</snippet>

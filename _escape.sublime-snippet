@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_.escape(${1:string})
+]]></content>
+	<tabTrigger>_escape</tabTrigger>
+	<description>Underscore.js escape</description>
+</snippet>

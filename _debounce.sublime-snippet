@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+_.debounce(${1:function(){
+
+	${2://	body}
+
+\}}, 
+${3:wait}${4:,
+isImmediate});
+]]></content>
+	<tabTrigger>_debounce</tabTrigger>
+	<description>Underscore.js debounce</description>
+</snippet>

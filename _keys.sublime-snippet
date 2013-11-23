@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+_.keys(${1:object});
+]]></content>
+	<tabTrigger>_keys</tabTrigger>
+	<description>Underscore.js keys</description>
+</snippet>
