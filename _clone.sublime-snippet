@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.clone(${1:object});
-]]></content>
-	<tabTrigger>_clone</tabTrigger>
-	<description>Underscore.js clone</description>
-</snippet>

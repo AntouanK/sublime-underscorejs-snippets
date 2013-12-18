@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.omit ${1:object}${2:, keys}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_omit</tabTrigger>
+	<description>Underscore.js omit</description>
+</snippet>

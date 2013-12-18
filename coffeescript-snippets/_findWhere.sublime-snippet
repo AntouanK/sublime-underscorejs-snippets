@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.findWhere ${1:list}, ${2:properties}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_findWhere</tabTrigger>
+	<description>Underscore.js findWhere</description>
+</snippet>

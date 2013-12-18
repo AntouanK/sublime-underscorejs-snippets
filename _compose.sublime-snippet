@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.compose(${1:functions});
-]]></content>
-	<tabTrigger>_compose</tabTrigger>
-	<description>Underscore.js compose</description>
-</snippet>

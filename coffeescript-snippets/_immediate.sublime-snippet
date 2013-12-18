@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.debounce ${1:->
+    ${2:# body}
+}, ${3:wait}, true
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_immediate</tabTrigger>
+	<description>Underscore.js debounce (immediate)</description>
+</snippet>

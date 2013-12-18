@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.rest(${1:array}${2:, index});
-]]></content>
-	<tabTrigger>_rest</tabTrigger>
-	<description>Underscore.js rest</description>
-</snippet>

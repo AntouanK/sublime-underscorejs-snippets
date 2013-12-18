@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.where(${1:list}, ${2:{ ${3:key}: ${4:value} }});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_where</tabTrigger>
+	<description>Underscore.js where</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.reduce(${1:list}, function(memo, ${3:value}, key, list){
+
+	return ${4:memo + value.something;}
+
+}, ${2:memo});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_reduce</tabTrigger>
+	<description>Underscore.js reduce</description>
+</snippet>

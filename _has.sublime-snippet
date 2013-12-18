@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.has(${1:object}, ${2:key});
-]]></content>
-	<tabTrigger>_has</tabTrigger>
-	<description>Underscore.js has</description>
-</snippet>

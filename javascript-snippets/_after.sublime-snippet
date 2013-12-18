@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.after(${1:count}, ${2:function(){
+
+	${3://	body}
+
+\}});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_after</tabTrigger>
+	<description>Underscore.js after</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.partial(${1:function}, ${2:arguments});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_partial</tabTrigger>
+	<description>Underscore.js partial</description>
+</snippet>

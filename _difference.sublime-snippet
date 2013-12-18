@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.difference(${1:array}, ${2:values});
-]]></content>
-	<tabTrigger>_difference</tabTrigger>
-	<description>Underscore.js difference</description>
-</snippet>

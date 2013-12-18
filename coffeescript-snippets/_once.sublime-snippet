@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.once ${1:(${2:arg})->
+    ${3:# body}
+}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_once</tabTrigger>
+	<description>Underscore.js once</description>
+</snippet>

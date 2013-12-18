@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.object(${1:list}${2:, values});
-]]></content>
-	<tabTrigger>_object</tabTrigger>
-	<description>Underscore.js object</description>
-</snippet>

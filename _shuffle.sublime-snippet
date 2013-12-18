@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.shuffle(${1:list});
-]]></content>
-	<tabTrigger>_shuffle</tabTrigger>
-	<description>Underscore.js shuffle</description>
-</snippet>

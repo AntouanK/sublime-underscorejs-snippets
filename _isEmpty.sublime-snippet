@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isEmpty(${1:object})
-]]></content>
-	<tabTrigger>_isEmpty</tabTrigger>
-	<description>Underscore.js isEmpty</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.pluck(${1:list}, ${2:'propertyName'});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_pluck</tabTrigger>
+	<description>Underscore.js pluck</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.filter(${1:list}, function(${2:value}, key, list){
+	
+	return ${3:value === someOtherValue;}
+
+});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_filter</tabTrigger>
+	<description>Underscore.js filter</description>
+</snippet>

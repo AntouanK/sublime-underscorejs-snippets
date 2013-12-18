@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isUndefined(${1:value})
-]]></content>
-	<tabTrigger>_isUndefined</tabTrigger>
-	<description>Underscore.js isUndefined</description>
-</snippet>

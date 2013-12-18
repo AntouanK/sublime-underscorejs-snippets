@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.isElement ${1:object}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_isElement</tabTrigger>
+	<description>Underscore.js isElement</description>
+</snippet>

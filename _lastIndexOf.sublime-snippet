@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.lastIndexOf(${1:array}, ${2:value}${3:, fromIndex});
-]]></content>
-	<tabTrigger>_lastIndexOf</tabTrigger>
-	<description>Underscore.js lastIndexOf</description>
-</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+_.times ${1:n}, (${2:ele}, i, list)->
+    ${3:# body}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_times</tabTrigger>
+	<description>Underscore.js times</description>
+</snippet>

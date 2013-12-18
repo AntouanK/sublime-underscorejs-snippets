@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.sortedIndex ${1:list}, ${2:value} ${3:, (${4:value}, i, list)->
+    ${5:value == someOtherValue}
+}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_sortedIndex</tabTrigger>
+	<description>Underscore.js sortedIndex</description>
+</snippet>

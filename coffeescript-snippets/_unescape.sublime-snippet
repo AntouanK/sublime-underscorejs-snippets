@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.unescape ${1:string}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_unescape</tabTrigger>
+	<description>Underscore.js unescape</description>
+</snippet>

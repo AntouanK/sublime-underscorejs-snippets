@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.map(${1:list}, function(${2:value}, key, list){
+
+	${3:// body}
+
+});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_map</tabTrigger>
+	<description>Underscore.js map</description>
+</snippet>

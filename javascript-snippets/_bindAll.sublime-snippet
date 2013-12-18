@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.bindAll(${1:object}, ${2:methodNames});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_bindAll</tabTrigger>
+	<description>Underscore.js bindAll</description>
+</snippet>

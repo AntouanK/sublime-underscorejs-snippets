@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.some ${1:list}, ${2:(${3:value}, i, list)->
+    ${4:value == someOtherValue}
+}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_some</tabTrigger>
+	<description>Underscore.js some</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+_.sortBy ${1:list}, (${3:value}, key, list)->
+    ${4:# some_criterion_here}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_sortBy</tabTrigger>
+	<description>Underscore.js sortBy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.functions ${1:object}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_functions</tabTrigger>
+	<description>Underscore.js functions</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.flatten(${1:array}${2:, shallow});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_flatten</tabTrigger>
+	<description>Underscore.js flatten</description>
+</snippet>

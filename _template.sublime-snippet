@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.template(${1:templateString}${2:, data}${3:, settings})
-]]></content>
-	<tabTrigger>_template</tabTrigger>
-	<description>Underscore.js template</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isNull(${1:object})
-]]></content>
-	<tabTrigger>_isNull</tabTrigger>
-	<description>Underscore.js isNull</description>
-</snippet>

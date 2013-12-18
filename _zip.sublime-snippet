@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.zip(${1:array1}${2:, array2});
-]]></content>
-	<tabTrigger>_zip</tabTrigger>
-	<description>Underscore.js zip</description>
-</snippet>

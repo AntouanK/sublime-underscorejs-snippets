@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.memoize ${1:(arg)->
+    ${3:# body}
+}${2:, hashFunction}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_memoize</tabTrigger>
+	<description>Underscore.js memoize</description>
+</snippet>

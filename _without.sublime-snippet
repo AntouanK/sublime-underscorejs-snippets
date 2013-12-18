@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.without(${1:array}${2:, values});
-]]></content>
-	<tabTrigger>_without</tabTrigger>
-	<description>Underscore.js without</description>
-</snippet>

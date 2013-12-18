@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.noConflict()
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_noConflict</tabTrigger>
+	<description>Underscore.js noConflict</description>
+</snippet>

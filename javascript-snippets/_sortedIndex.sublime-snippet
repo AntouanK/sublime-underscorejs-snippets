@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.sortedIndex(${1:list}, ${2:value} ${3:, function(${4:value}, i, list){
+
+	return ${5:value === someOtherValue;}
+
+\}});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_sortedIndex</tabTrigger>
+	<description>Underscore.js sortedIndex</description>
+</snippet>

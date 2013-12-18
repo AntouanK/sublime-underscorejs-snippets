@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isBoolean(${1:object})
-]]></content>
-	<tabTrigger>_isBoolean</tabTrigger>
-	<description>Underscore.js isBoolean</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.extend(${1:destination}, ${2:sources});
-]]></content>
-	<tabTrigger>_extend</tabTrigger>
-	<description>Underscore.js extend</description>
-</snippet>

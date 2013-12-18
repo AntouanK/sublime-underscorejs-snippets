@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.contains(${1:list}, ${2:value});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_contains</tabTrigger>
+	<description>Underscore.js contains</description>
+</snippet>

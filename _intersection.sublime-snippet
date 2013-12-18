@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.intersection(${1:array1}, ${2:array2});
-]]></content>
-	<tabTrigger>_intersection</tabTrigger>
-	<description>Underscore.js intersection</description>
-</snippet>
