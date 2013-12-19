@@ -10,5 +10,5 @@ isImmediate});
 ]]></content>
 	<scope>source.js</scope>
 	<tabTrigger>_debounce</tabTrigger>
-	<description>Underscore..js debounce</description>
+	<description>Underscore.js debounce</description>
 </snippet>
