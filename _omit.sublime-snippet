@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.omit(${1:object}${2:, keys});
-]]></content>
-	<tabTrigger>_omit</tabTrigger>
-	<description>Underscore.js omit</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isEqual(${1:value1}, ${2:value2})
-]]></content>
-	<tabTrigger>_isEqual</tabTrigger>
-	<description>Underscore.js isEqual</description>
-</snippet>

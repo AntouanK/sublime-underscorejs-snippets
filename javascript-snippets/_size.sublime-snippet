@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.size(${1:list})
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_size</tabTrigger>
+	<description>Underscore.js size</description>
+</snippet>

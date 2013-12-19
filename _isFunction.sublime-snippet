@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isFunction(${1:object})
-]]></content>
-	<tabTrigger>_isFunction</tabTrigger>
-	<description>Underscore.js isFunction</description>
-</snippet>

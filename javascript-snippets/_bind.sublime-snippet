@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.bind(${1:function}, ${2:object}${3:, arguments});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_bind</tabTrigger>
+	<description>Underscore.js bind</description>
+</snippet>

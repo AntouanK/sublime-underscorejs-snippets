@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.uniq ${1:array}${2:, isSorted}${3:, (${4:value}, key, list)->
+    ${5:# some_criterion_here}
+}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_uniq</tabTrigger>
+	<description>Underscore.js uniq</description>
+</snippet>

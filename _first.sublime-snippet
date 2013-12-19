@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.first(${1:array}${2:, n});
-]]></content>
-	<tabTrigger>_first</tabTrigger>
-	<description>Underscore.js first</description>
-</snippet>

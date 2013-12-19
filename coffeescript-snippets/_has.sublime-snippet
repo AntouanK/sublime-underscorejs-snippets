@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.has ${1:object}, ${2:key}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_has</tabTrigger>
+	<description>Underscore.js has</description>
+</snippet>

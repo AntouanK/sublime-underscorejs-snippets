@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.invoke ${1:list}, ${2:methodName}${3:, arguments}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_invoke</tabTrigger>
+	<description>Underscore.js invoke</description>
+</snippet>

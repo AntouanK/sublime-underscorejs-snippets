@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.random(${1:min, }${2:max})
-]]></content>
-	<tabTrigger>_random</tabTrigger>
-	<description>Underscore.js random</description>
-</snippet>

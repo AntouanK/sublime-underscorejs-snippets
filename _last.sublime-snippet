@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.last(${1:array}${2:, n});
-]]></content>
-	<tabTrigger>_last</tabTrigger>
-	<description>Underscore.js last</description>
-</snippet>

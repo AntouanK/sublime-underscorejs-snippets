@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.intersection ${1:array1}, ${2:array2}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_intersection</tabTrigger>
+	<description>Underscore.js intersection</description>
+</snippet>

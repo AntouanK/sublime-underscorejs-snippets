@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.initial ${1:array}${2:, n}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_initial</tabTrigger>
+	<description>Underscore.js initial</description>
+</snippet>

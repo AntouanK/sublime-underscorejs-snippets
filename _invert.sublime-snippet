@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.invert(${1:object});
-]]></content>
-	<tabTrigger>_invert</tabTrigger>
-	<description>Underscore.js invert</description>
-</snippet>

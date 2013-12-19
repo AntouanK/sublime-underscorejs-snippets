@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.noCoflict();
-]]></content>
-	<tabTrigger>_noCoflict</tabTrigger>
-	<description>Underscore.js noCoflict</description>
-</snippet>

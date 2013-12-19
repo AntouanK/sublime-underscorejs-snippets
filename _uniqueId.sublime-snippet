@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.uniqueId(${1:prefix})
-]]></content>
-	<tabTrigger>_uniqueId</tabTrigger>
-	<description>Underscore.js uniqueId</description>
-</snippet>

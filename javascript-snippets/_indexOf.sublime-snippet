@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.indexOf(${1:array}, ${2:value}${3:, isSorted});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_indexOf</tabTrigger>
+	<description>Underscore.js indexOf</description>
+</snippet>

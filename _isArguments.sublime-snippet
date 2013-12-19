@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isArguments(${1:object})
-]]></content>
-	<tabTrigger>_isArguments</tabTrigger>
-	<description>Underscore.js isArguments</description>
-</snippet>

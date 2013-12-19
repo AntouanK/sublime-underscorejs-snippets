@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.size(${1:list})
-]]></content>
-	<tabTrigger>_size</tabTrigger>
-	<description>Underscore.js size</description>
-</snippet>

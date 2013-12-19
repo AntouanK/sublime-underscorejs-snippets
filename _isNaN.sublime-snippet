@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isNaN(${1:object})
-]]></content>
-	<tabTrigger>_isNaN</tabTrigger>
-	<description>Underscore.js isNaN</description>
-</snippet>

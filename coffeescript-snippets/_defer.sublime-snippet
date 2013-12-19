@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.defer ${1:->
+	${3:# body}
+}${2:, arguments}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_defer</tabTrigger>
+	<description>Underscore.js defer</description>
+</snippet>

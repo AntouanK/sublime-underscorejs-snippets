@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.delay ${1:->
+	${2:# body}
+}, ${3:wait}${4:, arguments}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_delay</tabTrigger>
+	<description>Underscore.js delay</description>
+</snippet>

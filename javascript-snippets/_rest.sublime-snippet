@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.rest(${1:array}${2:, index});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_rest</tabTrigger>
+	<description>Underscore.js rest</description>
+</snippet>

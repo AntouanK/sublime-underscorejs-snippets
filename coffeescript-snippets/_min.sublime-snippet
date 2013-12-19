@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.min ${1:list}${2:, (${3:value}, key, list)->
+    ${4:# some_criterion_here}
+}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_min</tabTrigger>
+	<description>Underscore.js min</description>
+</snippet>

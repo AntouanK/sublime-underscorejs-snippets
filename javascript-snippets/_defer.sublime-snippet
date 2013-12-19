@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.defer(${1:function(){
+
+	${3://	body}
+
+\}}${2:, arguments});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_defer</tabTrigger>
+	<description>Underscore.js defer</description>
+</snippet>

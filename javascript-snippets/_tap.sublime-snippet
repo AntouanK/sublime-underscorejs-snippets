@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.tap(${1:object, }${2:interceptor});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_tap</tabTrigger>
+	<description>Underscore.js tap</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.mixin ${1:object}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_mixin</tabTrigger>
+	<description>Underscore.js mixin</description>
+</snippet>

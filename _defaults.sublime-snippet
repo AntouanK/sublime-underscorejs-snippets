@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.defaults(${1:object}, ${2:defaults});
-]]></content>
-	<tabTrigger>_defaults</tabTrigger>
-	<description>Underscore.js defaults</description>
-</snippet>

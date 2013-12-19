@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.times(${1:n}, function(${2:ele}, i, list){
+	
+	${3://	body}
+
+});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_times</tabTrigger>
+	<description>Underscore.js times</description>
+</snippet>

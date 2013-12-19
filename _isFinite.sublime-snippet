@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isFinite(${1:object})
-]]></content>
-	<tabTrigger>_isFinite</tabTrigger>
-	<description>Underscore.js isFinite</description>
-</snippet>

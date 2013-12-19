@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.union(${1:array1}, ${2:array2});
-]]></content>
-	<tabTrigger>_union</tabTrigger>
-	<description>Underscore.js union</description>
-</snippet>

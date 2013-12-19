@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isRegExp(${1:object})
-]]></content>
-	<tabTrigger>_isRegExp</tabTrigger>
-	<description>Underscore.js isRegExp</description>
-</snippet>

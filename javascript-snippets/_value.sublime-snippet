@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_(${1:object}).value()
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_value</tabTrigger>
+	<description>Underscore.js value</description>
+</snippet>

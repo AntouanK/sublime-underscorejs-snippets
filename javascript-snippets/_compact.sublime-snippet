@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.compact(${1:array});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_compact</tabTrigger>
+	<description>Underscore.js compact</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.memoize(${1:function(arg){
+
+	${3://	body}
+
+\}}${2:, hashFunction});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_memoize</tabTrigger>
+	<description>Underscore.js memoize</description>
+</snippet>

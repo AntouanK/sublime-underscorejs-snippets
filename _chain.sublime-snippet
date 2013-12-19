@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.chain(${1:object})
-]]></content>
-	<tabTrigger>_chain</tabTrigger>
-	<description>Underscore.js chain</description>
-</snippet>

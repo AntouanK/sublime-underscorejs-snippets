@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_.isDate(${1:object})
-]]></content>
-	<tabTrigger>_isDate</tabTrigger>
-	<description>Underscore.js isDate</description>
-</snippet>

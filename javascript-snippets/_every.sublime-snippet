@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.every(${1:list}, ${2:function(${3:value}, i, list){
+
+	return ${4:value === someOtherValue;}
+
+\}});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_every</tabTrigger>
+	<description>Underscore.js every</description>
+</snippet>

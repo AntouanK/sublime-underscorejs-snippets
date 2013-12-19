@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+_.uniq(${1:array}${2:, isSorted}${3:, function(${4:value}, key, list){
+
+	return ${5:// some_criterion_here};
+
+\}});
+]]></content>
+	<scope>source.js</scope>
+	<tabTrigger>_uniq</tabTrigger>
+	<description>Underscore.js uniq</description>
+</snippet>

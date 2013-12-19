@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.throttle ${1:->
+    ${2:# body}
+}, ${3:wait}${4:, options}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_throttle</tabTrigger>
+	<description>Underscore.js throttle</description>
+</snippet>

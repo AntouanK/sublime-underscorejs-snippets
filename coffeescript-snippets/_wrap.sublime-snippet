@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_.wrap ${1:->
+    ${2:# body}
+}, ${3:wrapper}
+]]></content>
+	<scope>source.coffee</scope>
+	<tabTrigger>_wrap</tabTrigger>
+	<description>Underscore.js wrap</description>
+</snippet>
