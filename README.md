@@ -26,3 +26,8 @@ more on Sublime Text snippets feature --> http://docs.sublimetext.info/en/latest
 v 0.1.2 ( 23 Nov 2013 )
 - removed trailing semicolon from the _.isSomething() functions
 - added all remaining underscore.js functions
+
+v 0.2 ( 19 Dec 2013 )
+- added Coffescript support
+- fixed a duplicate
+- added scope
